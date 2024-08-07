@@ -30,6 +30,8 @@ brew cleanup
 # Define an array of packages to install using Homebrew.
 packages=(
     "python"
+    "tcl-tk"
+    "python-tk"
     "bash"
     "zsh"
     "git"
@@ -85,6 +87,7 @@ apps=(
     "visual-studio-code"
     "virtualbox"
     "spotify"
+    "discord"
     "zoom"
     "google-drive"
     "gimp"
