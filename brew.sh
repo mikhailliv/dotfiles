@@ -38,6 +38,7 @@ packages=(
     "black"
     "node"
     "nginx"
+    "postgresql@16"
 )
 
 # Loop over the array to install each application.
@@ -92,6 +93,12 @@ apps=(
     "postman"
     "github"
     "docker"
+    "adobe-acrobat-reader"
+    "intellij-idea-ce"
+    "microsoft-excel"
+    "onedrive"
+    "spideroakone"
+    "ollama"
 )
 
 # Loop over the array to install each application.
