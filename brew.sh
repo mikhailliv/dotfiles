@@ -37,6 +37,7 @@ packages=(
     "pylint"
     "black"
     "node"
+    "nginx"
 )
 
 # Loop over the array to install each application.
