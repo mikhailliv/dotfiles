@@ -78,16 +78,19 @@ apps=(
     "google-chrome"
     "firefox"
     "brave-browser"
-    "sublime-text"
+    "whatsapp"
+    "telegram-desktop"
     "visual-studio-code"
     "virtualbox"
     "spotify"
-    "discord"
+    "zoom"
     "google-drive"
     "gimp"
     "vlc"
     "rectangle"
     "postman"
+    "github"
+    "docker"
 )
 
 # Loop over the array to install each application.
